@@ -1,7 +1,7 @@
 //your JS code here. If required.
 const fontSize = document.getElementById("fontsize");
 const fontColor = document.getElementById("fontcolor");
-const btn = document.getElementById("btn");
+const btn = document.getElementById("save");
 
 btn.addEventListener("click", (e) => {
   e.preventDefault();
